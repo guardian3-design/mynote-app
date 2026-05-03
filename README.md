@@ -1,2 +1,2 @@
 # mynote-app
-Full-stack Flutter notes app with Supabase backend, authentication, and offline storage (Hive)
+Full-stack notes app built with Flutter, Supabase, and Hive featuring authentication, password recovery, and offline support
